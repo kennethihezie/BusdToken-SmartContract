@@ -2,10 +2,9 @@
 
 This project contains the implementation BUSD Token smart contract.
 
+# Currently Bsc testnet is having issues, so i made a work around to deploy to polygon network, hopefully when testing the contract bsc testnet might be up and runing the you can excute ./testnet_deploy.sh to deploy to bsc testnet
 
 # Steps to setup and deploy BUSDHandler SmartContract
-# Currently Bsc testnet is having issues, so i made a work around to
-# deploy to polygon network, hopefully when testing the contract bsc testnet might be up and runing the you can excute ./testnet_deploy.sh to deploy to bsc testnet
 ```
 => git clone https://github.com/kennethihezie/BusdToken-SmartContract.git
 
