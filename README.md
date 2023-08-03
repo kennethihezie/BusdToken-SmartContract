@@ -4,7 +4,11 @@ This project contains the implementation BUSD Token smart contract.
 
 # Steps to setup and deploy BUSDHandler SmartContract
 ```
-=> clone this project from the repository
+=> git clone https://github.com/kennethihezie/BusdToken-SmartContract.git
+
+=> cd BusdToken-SmartContract
+
+=> npm install
 ```
 
 Try running some of the following tasks:
