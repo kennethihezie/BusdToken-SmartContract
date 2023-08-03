@@ -1,6 +1,11 @@
-# Sample Hardhat Project
+# BUSDHandler SmartContract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project contains the implementation BUSD Token smart contract.
+
+# Steps to setup and deploy BUSDHandler SmartContract
+```
+=> clone this project from the repository
+```
 
 Try running some of the following tasks:
 
