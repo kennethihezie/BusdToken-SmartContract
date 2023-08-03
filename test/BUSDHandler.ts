@@ -2,10 +2,13 @@ import { expect } from "chai";
 import { ethers } from "hardhat";
 import { loadFixture } from '@nomicfoundation/hardhat-network-helpers'
 
+//Created by Collins Ihezie on 03/08/203
+
+//Defined a constant variable for initialSupply of BUSDToken
 const INITIAL_SUPPLY = 10000
 
-describe("BUSD", () => {
-
+//Testing the BUSDHandler contract.
+describe("BUSDHandler", () => {
    async function deployBusdFixture() {
       // Contracts are deployed using the first signer/account by default
       const [owner, otherAccount] = await ethers.getSigners();    

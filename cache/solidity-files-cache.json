@@ -2,15 +2,15 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/gavadeveloper/Documents/BlockChain/BUSDPortal/smart_contract/contracts/BUSDHandler.sol": {
-      "lastModificationDate": 1691059441608,
-      "contentHash": "3ea455bd2ba23433d6376f1f48ebcd67",
+      "lastModificationDate": 1691078518952,
+      "contentHash": "6e2df587ce22026cd9c9c01669b1bbfc",
       "sourceName": "contracts/BUSDHandler.sol",
       "solcConfig": {
         "version": "0.8.19",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 1000000
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -46,8 +46,8 @@
         "version": "0.8.19",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 1000000
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -85,8 +85,8 @@
         "version": "0.8.19",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 1000000
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -120,8 +120,8 @@
         "version": "0.8.19",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 1000000
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
@@ -157,8 +157,8 @@
         "version": "0.8.19",
         "settings": {
           "optimizer": {
-            "enabled": true,
-            "runs": 1000000
+            "enabled": false,
+            "runs": 200
           },
           "outputSelection": {
             "*": {
