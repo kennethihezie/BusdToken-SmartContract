@@ -38,7 +38,7 @@ contract BUSDHandler is ERC20 {
     }
 
     function transferBusdToken(address to, uint256 amount) public payable {
-        require(amount < 0, "Amount must greater than zero");
+        require(amount > 0, "Amount must greater than zero");
         //Set the amount of allowance the spender is allowed to transfer.
         approve(msg.sender, amount);
         transferFrom(msg.sender, to, amount);
